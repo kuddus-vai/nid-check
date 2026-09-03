@@ -1,0 +1,6 @@
+{
+  "name": "NID Server Copy - Bangladesh Election Commission",
+  "description": "NID verification slip and server copy layout viewer based on Bangladesh Election Commission NIDW specifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
